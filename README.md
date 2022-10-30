@@ -8,7 +8,7 @@
 ## Introduction ✨
 
 <!-- Contoh Perkenalan Diri *Bisa gunakan bahasa indonesia -->
-Hi, Perkenalkan saya Putu I Putu Rangga Indra Pramana, seorang Developer asal Bali, Indonesia.
+Hi, Perkenalkan saya I Putu Rangga Indra Pramana, seorang Developer asal Bali, Indonesia.
 Untuk saat ini aku sedang berfokus kan di Frontend Development.
 
 ## Tech stack 🚀
