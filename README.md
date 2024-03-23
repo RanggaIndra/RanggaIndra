@@ -26,7 +26,7 @@ For now, I have big interest on Data Science and Machine Learning field (I used 
 </div>
 
 ## Stats ⚙️
-<div width="100" height="100">
+<div display="flex" flex-direction="column">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanggaIndra&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaIndra&layout=donut&theme=dracula)
