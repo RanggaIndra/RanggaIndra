@@ -3,7 +3,7 @@ Welcome to my GitHub profile, relax and take a look!🤓
 
 ## About Me ✨  
 <dd>My full name is, I Putu Rangga Indra Pramana🧑‍🦱</dd>
-<dd>I live in Badung, Bali🗺️</dd>
+<dd>I live in Badung, Bali, Indonesia🗺️</dd>
 <dd>For now, I have big interest on Data Science and Machine Learning field (I used to work on Website project to 😸).</dd>
 
 <div align="center">
