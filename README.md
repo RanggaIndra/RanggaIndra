@@ -27,4 +27,4 @@ For now, I have big interest on Data Science and Machine Learning field (I used 
 
 ## Stats ⚙️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanggaIndra&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaIndra&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaIndra&layout=donut&theme=dracula)
