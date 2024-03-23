@@ -25,9 +25,6 @@ For now, I have big interest on Data Science and Machine Learning field (I used 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="css" width="50" height="50"/>
 </div>
 
-<div display="flex" justify-content="space-between">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanggaIndra&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaIndra&layout=compact&theme=dracula)
-
-</div>
+## Stats ⚙️
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanggaIndra&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaIndra&layout=compact&theme=dracula)
