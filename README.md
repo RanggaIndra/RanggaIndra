@@ -1,13 +1,13 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rangga
 
 ## About Me ✨  
-<dd>My full name is, I Putu Rangga Indra Pramana.</dd>🧑‍🦱
-<dd>I live in Badung, Bali</dd>🇮🇩
+<dd>My full name is, I Putu Rangga Indra Pramana.🧑‍🦱</dd>
+<dd>I live in Badung, Bali 🗺️</dd>
 <dd>For now, I have big interest on Data Science and Machine Learning field (I used to work on Website project to 😸).</dd>
 
 <div align="center">
 
-## :wrench: Languages and Tools 🚀
+## 🔧 Languages and Tools 🚀
 
 </div>
 
