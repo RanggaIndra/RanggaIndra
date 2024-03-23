@@ -1,4 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <dd>I'm Rangga.</dd>
+Welcome to my profile, relax and take a look!🤓
 
 ## About Me ✨  
 <dd>My full name is, I Putu Rangga Indra Pramana🧑‍🦱</dd>
