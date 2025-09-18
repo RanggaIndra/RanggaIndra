@@ -34,6 +34,6 @@ Welcome to my GitHub profile, relax and take a look!🤓
 </div>
 
 ## Stats ⚙️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanggaIndra&show_icons=true&theme=dracula)
+// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanggaIndra&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaIndra&layout=compact&theme=dracula)
+// ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaIndra&layout=compact&theme=dracula)
