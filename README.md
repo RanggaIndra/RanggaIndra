@@ -32,8 +32,3 @@ Welcome to my GitHub profile, relax and take a look!🤓
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="css" width="50" height="50"/>
 </div>
-
-## Stats ⚙️
-// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanggaIndra&show_icons=true&theme=dracula)
-
-// ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaIndra&layout=compact&theme=dracula)
